@@ -6,4 +6,4 @@ This end-to-end Twitter Sentiment Analysis project consists of 5 parts-
 - Visualizing tweet data
 - Sentiment Analysis
 
-In this project, I use Twitter API and Tweepy for Data Extraction and perform a sentiment analysis on tweets featuring PM Narendra Modi and opposition leader Rahul Gandhi
+In this project, I use Twitter API and Tweepy for Data Extraction and perform a sentiment analysis on tweets posted by Donald Trump
